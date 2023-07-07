@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+header{
+    text-align: center;
+    
+    border-radius: 50px;    
+}
+#busca{
+  border-radius: 17px;
+  margin: 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+    
+}
+img{
+    width: 30px;
+    height: 30px;
+    background-color: ;
+    border-radius: 17px;
+    position: relative;
+    top: 6px;
+    right: 6px;
+}
+
+
+
+
