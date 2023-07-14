@@ -8,11 +8,26 @@ header{
     text-align: center;
     
     border-radius: 50px;    
+    background-color: aqua;
+    
+}
+.busca1{
+    padding-left: 550px;
+    padding-top: 30px;
 }
 #busca{
   border-radius: 17px;
   margin: 10px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color:white ;
+  box-shadow: 1px 1px #fb07b6;
+  width: 300px;
+  height: 30px;
+  text-align: center;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  
+  
   
     
 }
@@ -25,7 +40,9 @@ img{
     top: 6px;
     right: 6px;
 }
-
+#lupa{
+    
+}
 
 
 
